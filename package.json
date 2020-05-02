@@ -1,0 +1,22 @@
+{
+  "name": "party-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveMustanski/party-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveMustanski/party-database/issues"
+  },
+  "homepage": "https://github.com/SteveMustanski/party-database#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
